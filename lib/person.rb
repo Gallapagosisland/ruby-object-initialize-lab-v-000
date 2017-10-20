@@ -18,3 +18,4 @@ class Person
   def breed
     @breed
   end
+end
